@@ -2,14 +2,18 @@
   "name": "learnreact",
   "version": "1.0.0",
   "description": "This is Namaste React Series",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pratiksha-Padwal/learn-react.git"
   },
   "author": "Pratiksha",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.9.3"
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
